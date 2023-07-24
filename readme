@@ -1,5 +1,6 @@
 #  https://www.youtube.com/watch?v=oWf6hH4iRP4
 #  Deploying End to End Website on AWS | Integrating EC2, Route 53 and RDS | Intellipaat
+#  for free domain https://www.freenom.com/
 
 
 sudo apt-get update
@@ -9,9 +10,11 @@ sudo apt-get install mysql-client
 # For python and related frameworks
 
 sudo apt-get install python3
+sudo apt-get install python3-pip
 sudo apt-get install python3-flask
 sudo apt-get install python3-pymysql
 sudo apt-get install python3-boto3
+# pip3 install boto3 pymysql falsk
 
 # for running application
 sudo python3 Empapp.py
