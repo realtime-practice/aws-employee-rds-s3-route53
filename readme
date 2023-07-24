@@ -1,3 +1,7 @@
+#  https://www.youtube.com/watch?v=oWf6hH4iRP4
+#  Deploying End to End Website on AWS | Integrating EC2, Route 53 and RDS | Intellipaat
+
+
 sudo apt-get update
 # For Sql-client
 sudo apt-get install mysql-client
@@ -11,3 +15,5 @@ sudo apt-get install python3-boto3
 
 # for running application
 sudo python3 Empapp.py
+
+
